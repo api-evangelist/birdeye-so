@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Birdeye (Solana data) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://birdeye.so/
+Birdeye (Solana data) provides a comprehensive token tracking and analytics platform for Solana and other blockchain ecosystems. It offers live price data, charts, trade histories, and advanced metrics such as supercharts and perps. Users can explore trending tokens, discover market trends, and access detailed token information through an intuitive web interface and API. The service aims to empower traders, developers, and analysts with real-time on-chain data and insights across multiple chains including Solana, BNB Chain, Ethereum, and more.
+
+**Areas:** Company · Blockchain · Data · Analytics · Token
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://birdeye.so/)
+- [Documentation](https://docs.birdeye.so/)
+- [Getting started](https://data.birdeye.so/docs/getting-started)
+- [Changelog](https://data.birdeye.so/docs/changelog)
+- [Terms of service](https://data.birdeye.so/docs/resources/terms)
+- [Privacy policy](https://birdeye.so/data-api/privacy-policy)
+- [Status](https://status.birdeye.so/)
+
+**APIs profiled:** 3
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/birdeye-so/](https://apis.io/providers/birdeye-so/).
